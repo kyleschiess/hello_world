@@ -1,6 +1,6 @@
 # hello_world
 
-# Kyle Schiess
+# Kyle Schiess, Jason Yang
 # CSC211, 3:00pm Monday Lab
 # 4/16/2018
 
